@@ -1,0 +1,11 @@
+numpy
+scipy
+librosa
+soundfile
+scikit-learn
+tensorflow>=2.15
+matplotlib
+pandas
+streamlit>=1.50
+plotly
+joblib
